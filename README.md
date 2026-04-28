@@ -433,8 +433,8 @@ PaginatedResponse<Destination> paged = new PaginatedResponse<>(items, total, pag
 
 ## 👨‍💻 Author
 
-**Shivam Mane**
-- GitHub: [@shivammane2007](https://github.com/shivammane2007)
+**Varun Pame**
+- GitHub: [@varunpame7106](https://github.com/varunpame7106)
 - Institution: VIT Pune — Information Technology, 2nd Year
 
 ---
